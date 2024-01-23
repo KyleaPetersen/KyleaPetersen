@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 📫 How to reach me via email: kyleandrewpetersen@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: If you give me a date I can tell you what day of the week it was.
+- ⚡ Fun fact: If you give me a date I can tell you what day of the week it was without using google.
 
 <!---
 KyleaPetersen/KyleaPetersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
